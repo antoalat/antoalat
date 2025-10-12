@@ -48,8 +48,8 @@
 ---
 ### 🚀 Featured Projects
 
-- [**SELFIE**](https://github.com/antoalat/Selfie) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square)
-- [**MultiPandOS**](https://github.com/antoalat/MultiPandOS) ![C](https://img.shields.io/badge/C-00599C?style=flat-square) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square)
+- [**SELFIE**](https://github.com/antoalat/Selfie)
+- [**MultiPandOS**](https://github.com/antoalat/MultiPandOS)
 
 ---
 
