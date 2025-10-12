@@ -48,16 +48,8 @@
 ---
 ### 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [![SELFIE](https://img.shields.io/badge/SELFIE-App-4EA94B?style=for-the-badge)](https://github.com/antoalat/Selfie) | Personal productivity app with Pomodoro timer, task management, calendar, and markdown notes. |
-| [![MultiPandOS](https://img.shields.io/badge/MultiPandOS-OS-4D4D4D?style=for-the-badge)](https://github.com/antoalat/MultiPandOS) | Multiprocessor operating system realized on the uriscV architecture. |
-
----
-
-## 📈 GitHub Stats
-
-![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoalat&show_icons=true&theme=dark)
+- [**SELFIE**](https://github.com/antoalat/Selfie) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square)
+- [**MultiPandOS**](https://github.com/antoalat/MultiPandOS) ![C](https://img.shields.io/badge/C-00599C?style=flat-square) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square)
 
 ---
 
