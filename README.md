@@ -46,14 +46,12 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 ---
+### 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
-![SELFIE](https://img.shields.io/badge/SELFIE-App-4EA94B?style=for-the-badge)
-[**SELFIE**](https://github.com/antoalat/Selfie) – Personal productivity app with Pomodoro timer, task management, calendar, and markdown notes.
-
-![MultiPandOS](https://img.shields.io/badge/MultiPandOS-OS-4D4D4D?style=for-the-badge)
-[**MultiPandOS**](https://github.com/antoalat/MultiPandOS) – Multiprocessor operating system realized on the uriscV architecture.
+| Project | Description |
+|---------|-------------|
+| [![SELFIE](https://img.shields.io/badge/SELFIE-App-4EA94B?style=for-the-badge)](https://github.com/antoalat/Selfie) | Personal productivity app with Pomodoro timer, task management, calendar, and markdown notes. |
+| [![MultiPandOS](https://img.shields.io/badge/MultiPandOS-OS-4D4D4D?style=for-the-badge)](https://github.com/antoalat/MultiPandOS) | Multiprocessor operating system realized on the uriscV architecture. |
 
 ---
 
