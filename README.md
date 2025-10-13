@@ -46,7 +46,7 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 ---
-### 🚀 Featured Projects
+###  Featured Projects
 
 - [**SELFIE**](https://github.com/antoalat/Selfie)
 - [**MultiPandOS**](https://github.com/antoalat/MultiPandOS)
@@ -57,5 +57,5 @@
 
 Feel free to reach out if you want to collaborate on a project!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoalat)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-a-899961294)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alatiantonio01@gmail.com)
