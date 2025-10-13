@@ -50,7 +50,7 @@
 
 - [**SELFIE**](https://github.com/antoalat/Selfie)
 - [**MultiPandOS**](https://github.com/antoalat/MultiPandOS)
-- [**Numerical Methods in Python**](https://github.com/antoalat/Numerical-Methods-In-Python)
+- [**Numerical Methods and Imaging in Python**](https://github.com/antoalat/Numerical-Methods-and-Imaging-in-Python)
 
 ---
 
