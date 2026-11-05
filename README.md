@@ -2,10 +2,10 @@
 
 ## About Me
 
-- 🎓 **Computer Science Student** at the University of Bologna.
-- 💻 **Passionate Software Developer** with experience in full-stack web apps, system programming, and Python scripting.
-- 🤖 Interested in **Machine Learning & AI**.
-- 💡 Always eager to learn new technologies and tackle challenging problems
+- **Computer Science Student** at the University of Bologna.
+-  **Passionate Software Developer** with experience in full-stack web apps, system programming, and Python scripting.
+-  Interested in **Machine Learning & AI**.
+-  Always eager to learn new technologies and tackle challenging problems
 
 ---
 
